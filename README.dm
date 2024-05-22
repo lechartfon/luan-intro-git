@@ -1,1 +1,1 @@
-Estamos en la clase DAW1 aprendiendo a utilizar git.
+Estamos en clase, con los compañeros siendo hoy un dia muy soleado.
